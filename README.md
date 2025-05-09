@@ -14,9 +14,9 @@ L'ensemble de données utilisées contient environ 140 000 transactions réalis�
 
 
 ### Structure du dépot : 
-Le dépot Github contient les dossiers: config, Dashboard, docs, models et Notebook.
+Le dépot Github contient les dossiers: donnees, config, Dashboard, docs, models et Notebook.
 
-- Data : contient les données utiliséses pour l'apprentissage du modèle et la validation ainsi que le test.
+- données : contient les données utiliséses pour l'apprentissage du modèle, il contient également un fichier qui décrit les variables qui y sont présentes.
 - Notebooks : Les différents notebooks correspondant à chaque étape du projet.
 - Models : contient l'ensemble de tous les différents modèles entrainés au format dill
 - Dashboard: Il s'agit du dossier contenant la structure permettant le déploiement du modèle.
